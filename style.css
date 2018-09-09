@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  background-color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.image {
+  display: inline-block;
+  padding-top: 120px;
+}
+.search_box {
+  position: relative;
+  padding-top: 80px;
+}
